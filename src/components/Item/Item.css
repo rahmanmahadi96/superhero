@@ -1,0 +1,32 @@
+.item{
+    display: flex;
+    /* grid-template-columns: repeat(3,1fr); */
+    /* grid-gap: 6px; */
+    /* border-bottom: 1px solid grey; */
+    flex-direction: column;
+    padding: 15px;
+    box-shadow: 3px 6px 4px lightslategray;
+    height: 450px;
+    text-align: center;
+    align-items: center;
+    border-radius: 10px;
+}
+.item-img{
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+}
+.item-name{
+    font-weight: 700;
+}
+
+.add-button{
+    background-color:rgb(17, 37, 75);
+    color: white;
+    padding: 7px;
+    height: 30px;
+    width: 130px;
+    /* border: 1px solid lightgray; */
+    border-radius: 5px;
+    cursor: pointer;
+}

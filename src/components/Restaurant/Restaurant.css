@@ -1,0 +1,11 @@
+.restaurant-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    text-align: left;
+    margin-top: 10px;
+}
+.item-container{
+    padding: 10px;
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+}

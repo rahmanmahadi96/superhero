@@ -1,0 +1,403 @@
+[
+    {
+        "id": "BR001",
+        "category": "burger",
+        "name": "Chicken Cheese Burger",
+        "description": "Bun, Chicken Patty, Cheese, Special Sauce",
+        "ratings": 4.6,
+        "reviews": 124,
+        "img": "./images/br006.jpg",
+        "price": 175
+    },
+    {
+        "id": "BR002",
+        "category": "burger",
+        "name": "BBQ Chicken Burger",
+        "description": "Bun, Chicken Steak, Cheese, BBQ Sauce",
+        "ratings": 4.7,
+        "reviews": 321,
+        "img": "./images/br002.jpg",
+        "price": 210
+    },
+    {
+        "id": "PZ001",
+        "category": "pizza",
+        "name": "Four Seasons",
+        "description": "Cheese, Chicken, Beef, Black Olive, Mushroom, Capsicum",
+        "ratings": 4.6,
+        "reviews": 252,
+        "img": "./images/pz001.jpg",
+        "price": 550
+    },
+    {
+        "id": "BR003",
+        "category": "burger",
+        "name": "Chicken Delico",
+        "description": "Bun, 2xChicken Crispy Patty, Cheese, Egg, Special Sauce",
+        "ratings": 4.9,
+        "reviews": 511,
+        "img": "./images/br003.jpg",
+        "price": 240
+    },
+    {
+        "id": "PZ002",
+        "category": "pizza",
+        "name": "Pizza Americano",
+        "description": "Cheese, Tomato, Beef, Onion, Mushroom, Egg",
+        "ratings": 4.3,
+        "reviews": 92,
+        "img": "./images/pz002.jpg",
+        "price": 550
+    },
+    {
+        "id": "BR004",
+        "category": "burger",
+        "name": "Tower Delight",
+        "description": "Bun, 3xChicken Steak, Cheese, Special Sauce",
+        "ratings": 4.6,
+        "reviews": 212,
+        "img": "./images/br004.jpg",
+        "price": 299
+    },
+    {
+        "id": "PS001",
+        "category": "pasta",
+        "name": "Pasta Italians",
+        "description":"Sauce, Cheese, Chicken",
+        "ratings": 4.5,
+        "reviews": 64,
+        "img": "./images/ps001.jpg",
+        "price": 320
+    },
+    {
+        "id": "PZ003",
+        "category": "pizza",
+        "name": "Beef Sausage",
+        "description": "Cheese, Beef, Sausage, Mushroom, Capsicum",
+        "ratings": 4.5,
+        "reviews": 92,
+        "img": "./images/pz003.jpg",
+        "price": 650
+    },
+    {
+        "id": "PS002",
+        "category": "pasta",
+        "name": "Oven Baked Pasta",
+        "description":"Sauce, Cheese, Chicken, Oregano",
+        "ratings": 4.5,
+        "reviews": 14,
+        "img": "./images/ps002.jpg",
+        "price": 350
+    },
+    {
+        "id": "BR005",
+        "category": "burger",
+        "name": "Beef Ball Burger",
+        "description": "Bun, 2xBeef Patty, Beef Ball, Cheese, Special Sauce",
+        "ratings": 4.1,
+        "reviews": 111,
+        "img": "./images/br005.jpg",
+        "price": 215
+    },
+    {
+        "id": "BR006",
+        "category": "burger",
+        "name": "Naga Beef Burger",
+        "description": "Bun, Beef Steak, Special Spicy Sauce",
+        "ratings": 4.7,
+        "reviews": 321,
+        "img": "./images/br006.jpg",
+        "price": 265
+    },
+    {
+        "id": "PZ004",
+        "category": "pizza",
+        "name": "Pizza Barcelona",
+        "description": "Cheese, Chicken, Roast Beef, Onion, Tomato, Chilli",
+        "ratings": 4.3,
+        "reviews": 62,
+        "img": "./images/pz004.jpg",
+        "price": 650
+    },
+    {
+        "id": "BR007",
+        "category": "burger",
+        "name": "Mushroom Chicken",
+        "description": "Bun, Chicken Patty, Mushroom, Cheese, Special Sauce",
+        "ratings": 4.8,
+        "reviews": 311,
+        "img": "./images/br007.jpg",
+        "price": 210
+    },
+    {
+        "id": "BR008",
+        "category": "burger",
+        "name": "Chicky Nit",
+        "description": "Bun, Chicken Steak, Cheese, Egg, Special Sauce",
+        "ratings": 4.8,
+        "reviews": 24,
+        "img": "./images/br002.jpg",
+        "price": 190
+    },
+    {
+        "id": "PS003",
+        "category": "pasta",
+        "name": "Pasta Curry",
+        "description":"Curry, Black Olive, Sauce, Mushroom, Cheese, Chicken",
+        "ratings": 4.4,
+        "reviews": 29,
+        "img": "./images/ps003.jpg",
+        "price": 360
+    },
+    {
+        "id": "PZ005",
+        "category": "pizza",
+        "name": "Pizza Classics",
+        "description": "Cheese, Tomato, Tuna, Mushroom",
+        "ratings": 4.2,
+        "reviews": 122,
+        "img": "./images/pz011.jpg",
+        "price": 560
+    },
+    
+    {
+        "id": "PS004",
+        "category": "pasta",
+        "name": "Pasta Vegeteria",
+        "description":"Mushroom, Oregano, Sauce, Cheese, Black Olive",
+        "ratings": 4.8,
+        "reviews": 174,
+        "img": "./images/ps004.jpg",
+        "price": 68.36
+    },
+    {
+        "id": "BR009",
+        "category": "burger",
+        "name": "BBQ Beef Burger",
+        "description": "Bun, Beef patty, BBQ Sauce",
+        "ratings": 4.1,
+        "reviews": 111,
+        "img": "./images/br009.jpg",
+        "price": 215
+    },
+    {
+        "id": "BR010",
+        "category": "burger",
+        "name": "Chicken Sausage Burger",
+        "description": "Bun, 2xChicken Patty, Sausage, Cheese, Special Sauce",
+        "ratings": 4.4,
+        "reviews": 71,
+        "img": "./images/br010.jpg",
+        "price": 299
+    },
+    {
+        "id": "PZ006",
+        "category": "pizza",
+        "name": "Pizza Vegeteria",
+        "description": "Cheese, Tomato, Mushroom, Capsicum",
+        "ratings": 4.7,
+        "reviews": 57,
+        "img": "./images/pz006.jpg",
+        "price": 500
+    },
+    {
+        "id": "BR011",
+        "category": "burger",
+        "name": "Grilled Chicken",
+        "description": "Bun, Grilled Chicken Patty, Chicken Ball, Cheese, Special Sauce",
+        "ratings": 4.6,
+        "reviews": 211,
+        "img": "./images/br011.jpg",
+        "price": 275
+    },
+    {
+        "id": "PZ007",
+        "category": "pizza",
+        "name": "Pizza Spinacci",
+        "description": "Cheese, Tomato, Spinach, Garlic",
+        "ratings": 4.5,
+        "reviews": 92,
+        "img": "./images/pz007.png",
+        "price": 595
+    },
+    {
+        "id": "BR012",
+        "category": "burger",
+        "name": "Mushroom Beef Bacon",
+        "description": "Bun, Beef Patty, Beef Bacon, Cheese, Special Sauce",
+        "ratings": 4.8,
+        "reviews": 192,
+        "img": "./images/br012.jpg",
+        "price": 321
+    },
+    {
+        "id": "PS005",
+        "category": "pasta",
+        "name": "Pasta Europe",
+        "description":"Sauce, Cheese, Beef, Mushroom",
+        "ratings": 4.6,
+        "reviews": 72,
+        "img": "./images/ps005.jpg",
+        "price": 320
+    },
+    {
+        "id": "BR013",
+        "category": "burger",
+        "name": "Smoky BBQ",
+        "description": "Bun, 2xChicken Patty, 2xCheese, Smokey Sauce",
+        "ratings": 4.4,
+        "reviews": 118,
+        "img": "./images/br013.jpg",
+        "price": 280
+    },
+    {
+        "id": "BR014",
+        "category": "burger",
+        "name": "Double Decker",
+        "description": "Bun, 2xBeef Patty, Cheese, Special Sauce",
+        "ratings": 4.6,
+        "reviews": 209,
+        "img": "./images/br014.jpg",
+        "price": 299
+    },
+    {
+        "id": "PZ008",
+        "category": "pizza",
+        "name": "Pizza Cheese",
+        "description": "Cheese, Tomato Sauce, Mushroom",
+        "ratings": 4.7,
+        "reviews": 252,
+        "img": "./images/pz013.jpg",
+        "price": 700
+    },
+    {
+        "id": "BR015",
+        "category": "burger",
+        "name": "Nugget Burger",
+        "description": "Bun, 2xChicken Patty, Nuggets, Cheese, Special Sauce",
+        "ratings": 4.3,
+        "reviews": 31,
+        "img": "./images/br015.jpg",
+        "price": 280
+    },
+    {
+        "id": "PZ009",
+        "category": "pizza",
+        "name": "Pizza Milano",
+        "description": "Cheese, Marinated Chicken, Parmesan, Capsicum",
+        "ratings": 4.5,
+        "reviews": 92,
+        "img": "./images/pz009.jpg",
+        "price": 580
+    },
+    {
+        "id": "BR016",
+        "category": "burger",
+        "name": "Tuna Burger",
+        "description": "Bun, Tuna Patty, Cheese, Special Sauce",
+        "ratings": 4.2,
+        "reviews": 12,
+        "img": "./images/br016.jpg",
+        "price": 250
+    },
+    {
+        "id": "PZ010",
+        "category": "pizza",
+        "name": "Pizza Dhaka",
+        "description": "Cheese, Tandoori Chicken, Tomato, Mushroom, Capsicum",
+        "ratings": 4.5,
+        "reviews": 29,
+        "img": "./images/pz010.jpg",
+        "price": 650
+    },
+    {
+        "id": "PS006",
+        "category": "pasta",
+        "name": "Pasta Basta",
+        "description":"Capsicum, Mushroom, Cheese, Chicken",
+        "ratings": 4.8,
+        "reviews": 174,
+        "img": "./images/ps006.jpg",
+        "price": 68.36
+    },
+    {
+        "id": "BR017",
+        "category": "burger",
+        "name": "Coral Burger",
+        "description": "Bun, Coral Patty, Cheese, Special Sauce",
+        "ratings": 4.3,
+        "reviews": 47,
+        "img": "./images/br017.jpg",
+        "price": 275
+    },
+    {
+        "id": "BR018",
+        "category": "burger",
+        "name": "Mutton Burger",
+        "description": "Bun, Mutton Patty, Cheese, Special Sauce",
+        "ratings": 3.9,
+        "reviews": 21,
+        "img": "./images/br018.jpg",
+        "price": 235
+    },
+    {
+        "id": "BR019",
+        "category": "burger",
+        "name": "Spicy Crab",
+        "description": "Bun, Crab, Cheese, Special Spicy Sauce",
+        "ratings": 4.7,
+        "reviews": 321,
+        "img": "./images/br019.jpg",
+        "price": 299
+    },
+    {
+        "id": "PZ011",
+        "category": "pizza",
+        "name": "Pizza Peccoraci",
+        "description": "Tomato, Cheese, Paneer, Garlic",
+        "ratings": 4.0,
+        "reviews": 92,
+        "img": "./images/pz011.jpg",
+        "price": 520
+    },
+    {
+        "id": "BR020",
+        "category": "burger",
+        "name": "Chicken Circus",
+        "description": "Bun, 8xChicken Patty, 4xCheese, Special Sauce",
+        "ratings": 4.7,
+        "reviews": 43,
+        "img": "./images/br020.jpg",
+        "price": 700
+    },
+    {
+        "id": "PZ012",
+        "category": "pizza",
+        "name": "Pizza Bologneese",
+        "description": "Cheese, Beef, Onion",
+        "ratings": 4.5,
+        "reviews": 92,
+        "img": "./images/pz012.jpg",
+        "price": 600
+    },
+    {
+        "id": "BR021",
+        "category": "burger",
+        "name": "Royal Beef",
+        "description": "Bun, 4xBeef Patty, 4xCheese, Special Sauce",
+        "ratings": 4.5,
+        "reviews": 37,
+        "img": "./images/br021.jpg",
+        "price": 550
+    },
+    {
+        "id": "PZ013",
+        "category": "pizza",
+        "name": "Mexican Hot",
+        "description": "Cheese, Hot Chilli, Beef, Onion, Mushroom, Capsicum",
+        "ratings": 4.5,
+        "reviews": 92,
+        "img": "./images/pz013.jpg",
+        "price": 570
+    }
+]
