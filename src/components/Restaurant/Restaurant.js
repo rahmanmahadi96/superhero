@@ -7,12 +7,14 @@ const Restaurant = () => {
     const [items, setItems] = useState([]);
     const [cart, setCart] = useState([]);
 
+    // data fetch 
     useEffect( () => {
         fetch('./items.JSON')
         .then(res => res.json())
         .then(data => setItems(data));
     }, [])
 
+    // event listener 
     const handleAddItem = (item) => {
         const newCart = [...cart, item];
         setCart(newCart);
@@ -20,7 +22,7 @@ const Restaurant = () => {
     return (
         
         <div className="restaurant-container">
-           
+           {/* item  */}
           <div className="item-container">
               {
                   items.map(item => <Item 
@@ -29,6 +31,7 @@ const Restaurant = () => {
                     handleAddItem = {handleAddItem}></Item>)
               }
           </div>
+          {/* cart  */}
           <div className="cart-container">
               <Cart cart={cart}></Cart>
           </div>

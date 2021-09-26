@@ -6,6 +6,7 @@ const Item = (props) => {
     // console.log(props);
     const {img, name, category, price, description, ratings, reviews} = props.item;
     return (
+        // display single item
         <div className="item">
             <div>
             <img className="item-img" src={img} alt="" />

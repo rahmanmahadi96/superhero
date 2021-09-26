@@ -1,8 +1,5 @@
 .item{
     display: flex;
-    /* grid-template-columns: repeat(3,1fr); */
-    /* grid-gap: 6px; */
-    /* border-bottom: 1px solid grey; */
     flex-direction: column;
     padding: 15px;
     box-shadow: 3px 6px 4px lightslategray;
@@ -23,10 +20,9 @@
 .add-button{
     background-color:rgb(17, 37, 75);
     color: white;
-    padding: 7px;
+    padding: 6px;
     height: 30px;
-    width: 130px;
-    /* border: 1px solid lightgray; */
+    width: 120px;
     border-radius: 5px;
     cursor: pointer;
 }
