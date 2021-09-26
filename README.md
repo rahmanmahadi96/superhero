@@ -1,6 +1,6 @@
 # Order Your Favourite Food with Eatathon
 
-visit the website and confirm your order now https://eatathon-superhero-direction.netlify.app/
+[visit the website and confirm your order now](https://eatathon-superhero-direction.netlify.app/)
 
 ## A small introduction of Eatathon
 
