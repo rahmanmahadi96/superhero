@@ -16,7 +16,7 @@ const Cart = (props) => {
             <h5>Items Ordered: {props.cart.length}</h5>
             <ul>
                 {
-                    cart.map((item, name) => <li key={name}>{item.name}</li>)
+                    cart.map((item, index) => <li key={index}>{item.name}</li>)
                 }
             </ul>
             <h3><small>Total</small> {total.toFixed(2)}</h3>
